@@ -8,7 +8,7 @@ import mysql.connector  # MySQL Connector for Python
 import json  # To handle JSON serialization
 
 # API setup with the new API key
-API_KEY = "AIzaSyD901aSpuAKvs4kLeGkrqaHs513r8oLgeM"
+API_KEY = "yourapi"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
